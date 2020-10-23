@@ -1,6 +1,6 @@
-# flutter_app
+# flutter_mvvm
 
-A new Flutter application.
+一个基于provider实现的mvvm架构。
 
 ## Getting Started
 
